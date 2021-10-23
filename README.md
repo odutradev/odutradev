@@ -1,9 +1,11 @@
-## Oiii eu sou a João Vitor, Atualmente estudo JavaScript e Banco de Dados.
+## hello, My name is João & I live in Brazil, I'm learning about webapp development.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DARKnx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARKnx&layout=compact&langs_count=7&theme=dark"/>
+  <img align="center" alt="dark-Js" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+
 </div>
 
 ## Tecnologias que gosto de usar!
