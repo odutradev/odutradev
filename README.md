@@ -30,7 +30,7 @@
   <img align="center" alt="dark-github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img align="center" alt="dark-" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white">
   </div>
-  <!---
-DARKnx/DARKnx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  
+  
+
+
