@@ -1,11 +1,10 @@
 ## hello, My name is João & I live in Brazil, I'm learning about webapp development.
 
-<div align="center">
+<div>
   <a href="https://github.com/DARKnx">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DARKnx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARKnx&layout=compact&langs_count=7&theme=dark"/>
   
-
 </div>
 
 ## Technologies I am learning or already using!
