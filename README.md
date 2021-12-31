@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/DARKnx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DARKnx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DARKnx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARKnx&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
@@ -37,6 +37,8 @@
   <img align="center" alt="dark-postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"> 
   <img align="center" alt="dark-yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
     <img align="center" alt="dark-express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+    <img align="center" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img align="center" alt="react-router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"> 
 </div>
   
 ## Editing Development Paths !
