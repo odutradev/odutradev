@@ -1,4 +1,4 @@
-## hello, My name is João & I live in Brazil, I'm learning about webapp development.
+## hello world ! Meu nome e João Vitor, sou um desenvolvedor em busca de evolução.
 
 <div>
 
@@ -6,54 +6,46 @@
     
   <img width="45%"  height="160em" src="https://github-readme-stats.vercel.app/api?username=DARKnx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="40%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARKnx&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-  
-## My History:
-<p>So, now I'm going to tell a little bit of my story in this way of programming. I started programming about 4 years ago programming an arduino uno and that's when I started to like to code. In December 2020 I had my first contact with javascript and started programming bots with the discord api and that's how I started to evolve</p>
+</div><br>
 
-## Information:
-<div>
-<p>15 years</p>
-<p>Nova Lima, Minas Gerais</p>
-<p>2nd year of high school</p>
-</div>
 
+
+  
+## About me
+
+Desenvolvedor BackEnd e estudando para me tornar desenvolvedor Fullstack. Aos 11 anos entrei no mundo da tecnologia programando um simples arduino e assim nasceu um hobby. Posteriomente iniciei a programação de bots usando a api [discord.js](https://discord.js.org), adquirindo uma base no javascript. Em 2021 startei a programação de  webapps, apis, sites, e outros bots, atingindo vasto conhecimento. Atualmente cursando desenvolvimento de games na [saga](https://www.saga.com.br), Em paralelo atuando como monitor em um projeto do colegio, desenvolvido por mim e meus colegas de classe.
   
 
 ## Technologies I am learning or already using!
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="dark-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="dark-markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-  <img align="center" alt="dark-html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="dark-css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="dark-npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
-  <img align="center" alt="dark-node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="dark-firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
-  <img align="center" alt="dark-heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
-  
-  </div>
-  
- <div style="display: inline_block"><br>
-  <img align="center" alt="dark-postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"> 
-  <img align="center" alt="dark-yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
-    <img align="center" alt="dark-express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-    <img align="center" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<img align="center" alt="react-router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"> 
-</div>
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![nodejs](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![html](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![react](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
   
 ## Editing Development Paths !
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="dark-ps" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-  <img align="center" alt="dark-visualstudio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
-  <img align="center" alt="dark-git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="dark-github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img align="center" alt="dark-replit" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white">
-  <img align="center" alt="dark-insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
-  </div>
-  
+![npm](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![replit](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
+![vscode](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![ps](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
   ### Contato:
 <div style="display: inline_block"><br>
 <a href="https://discord.gg/mzYPWSP2e9"><img src="https://img.shields.io/badge/servidor-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
