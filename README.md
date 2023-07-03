@@ -70,10 +70,10 @@ Desenvolvedor BackEnd e estudando para me tornar desenvolvedor Fullstack. Aos 11
   ### Contato
 <div style="display: inline_block"><br>
 <a href="mailto:joao.vitornl@gmail.com?subject=Ola tudo bem ? Tenho interesse em seus serviços!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://linkedin.com/in/joão-vitor-750726224/"><img  alt="linkedin atualizando documentos!" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://linkedin.com/in/joãovitordutra/"><img  alt="linkedin atualizando documentos!" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <!-- linkedin analisando documentos !-->  
 <a href="https://api.whatsapp.com/send?phone=+5531997100959&text=ola%20tudo%20bem%20?%20tenho%20interesse%20em%20seus%20serviços!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
-<a href="https://www.instagram.com/darknx.br/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> </a>           </div>
+          </div>
 
   
   ```Copyright © 2023 DARKnx```
