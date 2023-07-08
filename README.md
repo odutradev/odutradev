@@ -10,7 +10,9 @@
   
 ## Sobre mim 
 
-Desenvolvedor BackEnd e estudando para me tornar desenvolvedor Fullstack. Aos 11 anos entrei no mundo da tecnologia programando um simples arduino e assim nasceu um hobby. Posteriomente iniciei a programação de bots usando a api [discord.js](https://discord.js.org), adquirindo uma base no javascript. Em 2021 startei a programação de  webapps, apis, sites, e outros bots, atingindo vasto conhecimento. Atualmente cursando desenvolvimento de games na [saga](https://www.saga.com.br), Em paralelo atuando como monitor em um projeto do colegio, desenvolvido por mim e meus colegas de classe.
+Sou um desenvolvedor full-stack autodidata com ampla experiência em desenvolvimento web e mobile. Minha jornada na programação começou aos 11 anos, quando fui introduzido ao mundo da tecnologia através de um simples Arduino, que rapidamente se transformou em um hobby apaixonante. Com apenas 16 anos, decidi iniciar um projeto na minha escola com o objetivo de ensinar programação aos meus amigos. Esse projeto cresceu rapidamente, e logo começamos a desenvolver um aplicativo específico para a escola. Com o passar do tempo, tive a oportunidade de marcar e liderar algumas reuniões que trouxeram ótimas oportunidades para o projeto, que se tornou uma empresa onde estamos desenvolvendo um aplicativo para todas as escolas municipais da minha cidade.
+
+No meio do ano de 2022, fui contratado por uma empresa onde prestei serviços por 6 meses, atuando em diversas áreas. Durante esse período, ganhei experiência e adquiri habilidades em diferentes aspectos do desenvolvimento tecnológico. Após esses 6 meses, fui contratado por uma empresa em Goiás, onde assumi a responsabilidade por todo o setor tecnológico. Minhas atribuições vão desde o design até o desenvolvimento e a infraestrutura. Nessa empresa, tive a oportunidade de liderar reuniões diretamente com o CEO e coordenar outros desenvolvedores para a execução de diversos projetos. Essa experiência me permitiu aprimorar minhas habilidades de liderança e gestão, além de expandir meu conhecimento técnico.
   
 
 ## Linguagens & Frameworks
@@ -75,7 +77,7 @@ Desenvolvedor BackEnd e estudando para me tornar desenvolvedor Fullstack. Aos 11
 ![macos](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![]()
 
-  ### Contato
+  ## Contato
 <div style="display: inline_block"><br>
 <a href="mailto:joao.vitornl@gmail.com?subject=Ola tudo bem ? Tenho interesse em seus serviços!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://linkedin.com/in/joãovitordutra/"><img  alt="linkedin atualizando documentos!" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
@@ -83,7 +85,6 @@ Desenvolvedor BackEnd e estudando para me tornar desenvolvedor Fullstack. Aos 11
 <a href="https://api.whatsapp.com/send?phone=+5531997100959&text=ola%20tudo%20bem%20?%20tenho%20interesse%20em%20seus%20serviços!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
           </div>
 
-  
-  ```Copyright © 2023 DARKnx```
+
   
 
