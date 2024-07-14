@@ -10,9 +10,7 @@
   
 ## Sobre mim 
 
-Sou um desenvolvedor full-stack autodidata com ampla experiência em desenvolvimento web e mobile. Minha jornada na programação começou aos 11 anos, quando fui introduzido ao mundo da tecnologia através de um simples Arduino, que rapidamente se transformou em um hobby apaixonante. Com apenas 16 anos, decidi iniciar um projeto na minha escola com o objetivo de ensinar programação aos meus amigos. Esse projeto cresceu rapidamente, e logo começamos a desenvolver um aplicativo específico para a escola. Com o passar do tempo, tive a oportunidade de marcar e liderar algumas reuniões que trouxeram ótimas oportunidades para o projeto, que se tornou uma empresa onde estamos desenvolvendo um aplicativo para todas as escolas municipais da minha cidade.
-
-No meio do ano de 2022, fui contratado por uma empresa onde prestei serviços por 6 meses, atuando em diversas áreas. Durante esse período, ganhei experiência e adquiri habilidades em diferentes aspectos do desenvolvimento tecnológico. Após esses 6 meses, fui contratado por uma empresa em Goiás, onde assumi a responsabilidade por todo o setor tecnológico. Minhas atribuições vão desde o design até o desenvolvimento e a infraestrutura. Nessa empresa, tive a oportunidade de liderar reuniões diretamente com o CEO e coordenar outros desenvolvedores para a execução de diversos projetos. Essa experiência me permitiu aprimorar minhas habilidades de liderança e gestão, além de expandir meu conhecimento técnico.
+Desenvolvedor full-stack web e mobile com ampla experiência na criação de sistemas, desde a elaboração e prototipação até o desenvolvimento e entrega. Apaixonado por tecnologia desde pequeno. Atualmente, trabalho como desenvolvedor full-stack e, em paralelo, na gestão de uma startup de desenvolvimento de aplicativos de educação que fundei.
   
 
 ## Linguagens & Frameworks
