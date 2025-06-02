@@ -1,7 +1,7 @@
 ## Olá ! Meu nome e João Vitor Dutra, sou um desenvolvedor em busca de evolução.
 
 <div>   
-     <img width="45%"  height="160em" src="https://github-readme-stats.vercel.app/api?username=odutradev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+     <img width="45%"  height="160em" src="https://github-readme-stats-odutradev.vercel.app//api?username=odutradev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
      <img width="40%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odutradev&layout=compact&langs_count=7&theme=dark"/>
 </div><br>
 
