@@ -1,8 +1,8 @@
 ## Olá ! Meu nome e João Vitor Dutra, sou um desenvolvedor em busca de evolução.
 
 <div>   
-     <img width="45%"  height="160em" src="https://github-readme-stats-odutradev.vercel.app/api?username=odutradev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-     <img width="40%" height="160em" src="https://github-readme-stats-odutradev.vercel.app/api/top-langs/?username=odutradev&layout=compact&langs_count=7&theme=dark"/>
+     <img width="45%"  height="160em" src="https://github-readme-stats.vercel.app/api?username=odutradev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+     <img width="40%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odutradev&layout=compact&langs_count=7&theme=dark"/>
 </div><br>
 
 
@@ -32,7 +32,8 @@ Desenvolvedor full-stack web e mobile com ampla experiência na criação de sis
 ![selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![
+redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![rn](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   
 ## Infraestrutura
